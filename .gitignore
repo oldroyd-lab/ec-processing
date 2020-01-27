@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Pycharm
+.idea
+
+# Subfolders that aren't hashed out yet
+transducer_shadowing/
+cpf/
+spf/
+analysis_tools/mrd_testbed.ipynb
+
+# Misc. data
+analysis_tools/data/*
